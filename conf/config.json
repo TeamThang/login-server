@@ -1,0 +1,22 @@
+{
+  "Redis": {
+    "Host": "127.0.0.1",
+    "Port": 6379,
+    "PassWord": "",
+    "DB": 2
+  },
+  "Postgre": {
+    "Host": "postgres-iuaw1qed.sql.tencentcdb.com",
+    "Port": 9969,
+    "User": "root_yzy",
+    "DbName": "login",
+    "PassWord": "Yzy^105178"
+  },
+  "Email": {
+    "Host": "smtp.qq.com",
+    "Port": 465,
+    "User": "461306188",
+    "PassWord": "txnjtiaczgmsbgcj",
+    "Sender": "461306188@qq.com"
+  }
+}

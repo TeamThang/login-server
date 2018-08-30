@@ -1,0 +1,7 @@
+site_name: 文档
+pages:
+    - 登陆服务接口文档: index.md
+    - 账户相关: account.md
+    - 鉴权相关: authen.md
+    - 提醒相关: notify.md
+theme: readthedocs
